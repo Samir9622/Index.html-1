@@ -1,11 +1,23 @@
 # Index.html
 <!DOCTYPE html>
+
+ <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Image Compressor</title>https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-app-pub-8773480799818158
+  <title>Image Compression Tool</title>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9354903383"
+          crossorigin="anonymous"></script>
   <style>
+</head>
+<body>
+  <div class="container">
+    <h1>Image Compression Tool</h1>
+    <!-- AdSense Bottom Placement -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9055111364"
+            crossorigin="anonymous"></script>
+    <!-- Rest of the body content remains the same --> <style>
     body {
       font-family: Arial, sans-serif;
       text-align: center;
