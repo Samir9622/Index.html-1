@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Image Compressor</title>
+  <title>Image Compressor</title>https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-app-pub-8773480799818158
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -58,7 +58,16 @@
 </head>
 <body>
 
-  <h1>Image Compressor</h1>
+  <h1>Image Compressor</h1>ad-container {
+  max-width: 1200px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+ins.adsbygoogle {
+  border-radius: 8px;
+  overflow: hidden;
+}
 
   <div id="drop-area">
     <p>Drag & Drop an image here</p>
@@ -67,7 +76,37 @@
     <input type="file" id="fileElem" accept="image/*">
   </div>
 
-  <div id="preview"></div>
+  <div id="preview"></div></section></header>
+
+<!-- Top Ad -->
+<div class="ad-container" style="margin: 20px auto; text-align: center;">
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-app-pub-8773480799818158"
+       data-ad-slot="9354903383"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<section class="hero">
+
+
+
+</section>
+
+<!-- Bottom Ad -->
+<div class="ad-container" style="margin: 40px auto; text-align: center;">
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-app-pub-8773480799818158"
+       data-ad-slot="9055111364"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<footer><footer>
 
   <script>
     const dropArea = document.getElementById("drop-area");
